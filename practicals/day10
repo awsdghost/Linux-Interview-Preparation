@@ -1,0 +1,14 @@
+
+
+Step 1. View exported resources (whether or not they are mounted):
+Step 2. From the client side, you can use the nfsstat command for similar results.
+Step 3. To display the exported resources from the client (mounted only), use the following:
+Step 4. View NFS version 4 stats from connected clients:
+
+
+
+Test Your Skills about Linux Kernel:
+1. What is the difference between the update (-U) and install (-i) options when using rpm to update the kernel?
+2. What directory is used to represent the virtual file system created by the kernel?
+3. What file is used to maintain custom parameters for the kernel during system boot?
+4. What critical step must you take after updating the kernel to a newer version?

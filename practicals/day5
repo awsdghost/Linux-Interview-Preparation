@@ -1,0 +1,20 @@
+
+Task1 . Installing LVM packages and verifying the LVM commands
+TASK 2 :  Creating an LVM Partition
+Task 3: Resizing a LVM Partition
+Task 4: Migrating Data from one Physical disk to another
+Task 5: Deleting a LVM partition
+
+
+
+Test Your Skills about Basic Networking:
+ 
+1. What command displays your current interfaces and IP address?
+2. What does ifconfig 172.168.1.100 netmask 255.255.255.0 eth1 do?
+3. What command can you use to test connectivity to another host?
+4. What does it mean if you ping a host and you receive the response Destination Unreachable?
+5. What is a gateway used for on a network?
+6. How would you go about creating a static route?
+7. What command can you use to monitor and troubleshoot network connections?
+8. Can you name three utilities that can be used for network or DNS client troubleshooting?
+9. What is the /etc/hosts file used for?

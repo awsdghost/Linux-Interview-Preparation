@@ -1,0 +1,28 @@
+
+
+Task 1: Installing Samba Services
+Task 2 : Configuring Samba Services
+Task 3: Configuring Firewall ports to allow smb traffic in Linux
+Samba Client Configuration
+Step 1. Install the client packages:
+Step 2. Verify that the install was successful:
+Step 3. Create a local directory where you will mount your Samba share.
+Step 4. List the Samba shares on the RHEL01 Samba server:
+Step 5. Mount the remote Samba share:
+Step 6. Verify the mount was successful:
+Automatically mounting Samba shares during Linux Boot
+SELinux configuration for Samba
+Step 1. Query for available Boolean options:
+Step 2. You need to change only a few settings for the shares to work properly:
+Step 3. Verify that the changes have been made:
+
+
+Test your skills about SELinux:
+1. What is the point of using SELinux?
+2. What are SELinux Booleans?
+3. What command can you use to change the context of files?
+4. What command can you use to query Boolean values?
+5. What command and option do you use to view the description of Boolean values?
+6. How would you view all Boolean options for the HTTP service?
+7. Which log file is used to keep track of policy violations?
+8. How would you disable SELinux protection for NFS, allowing shares to be read/write?

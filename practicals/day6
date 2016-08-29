@@ -1,0 +1,20 @@
+
+Configuring SSH
+Firewall and SELinux Configuration
+SSH Security
+Troubleshooting SSH
+Important Questions about SSH Service
+
+
+Test Your Skills about Package Management:
+ 
+1. What two commands are used for package management?
+2. What are the three modes in which the rpm command can operate?
+3. What option would you use to query an installed packages using the rpm command?
+4. How would you install a group of packages all at a single time?
+5. What options with the yum command would you use to remove a package?
+6. Where are Yum repository config files located?
+7. What command can you use to create your own repositories?
+8. What command is used to create an RPM package?
+9. What are the five required directories when building RPMS?
+10. If a package is built on an RHEL6 system and deployed to a custom RHEL5 repository, are RHEL5 

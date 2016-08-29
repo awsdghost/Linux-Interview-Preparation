@@ -1,0 +1,22 @@
+
+Lets look at the different runlevels:
+/etc/init/rc.conf file
+Runlevel Utilities
+Tasks you can do at recovery/rescue runlevel:
+Troubleshooting - Recovering Root Password in Linux
+Troubleshooting - Recovering Linux System from Corrupted MBR issue
+
+Test your Skills about File Systems
+1. What is the difference between an ext2 and ext3 file system?
+2. What command can you use to create a file system?
+3. Can you grow a file system?
+4. What is the superblock used for?
+5. What is a swap? Is it created as a partition or device file?
+6. How can you check the currently mounted file systems?
+7. What file needs to be edited so that the system will mount a file system at boot time?
+8. Before you work with quotas, what do you need to do to the file system?
+9. What command do you use to change the permissions on a file or directory? To change ownership?
+10. Explain the difference between soft and hard limits in quotas.
+11. What command do you use to report information on quota usage?
+12. Before you work with ACLs, what do you need to do to the file system?
+13. What command can you use to view the current ACL on a file?

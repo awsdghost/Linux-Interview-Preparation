@@ -1,0 +1,32 @@
+
+FTP configuration in Linux
+Task 1  : Installing FTP Services
+Task 2: Configuring VSFTP in Linux
+Firewall and SELinux Configuration for FTP Server
+..Step 1. Use the iptables command to create your firewall rules:
+Step 2. Save the rules you just created:
+Step 3. Restart the firewall service for the changes to take effect:
+SELinux Configuration
+Step 1. Query for the Boolean value you need to change:
+Step 2. Disable the SELinux protection:
+Step 3. Verify that the Boolean has changed:
+Configuring FTP Security using Host-based Access lists
+The FTP protocol supports two different types of file transfers.
+user_list file
+Troubleshooting FTP configuration in Linux
+Step 1. Install the lftp package on the Client01 system:
+Step 2. Verify the installation of the lftp package:
+
+
+
+Test Your Skills about System Security:
+ 
+1. All services in Red Hat can use TCP Wrappers. True or False?
+2. The firewall service is disabled by default. True or False?
+3. When Red Hat Enterprise Linux 6 is installed, SELinux is set to enforcing by default. True or False?
+4. What does the following firewall rule accomplish: iptables -I INPUT 5 -p tcp -m tcp .dport 80 -j ACCEPT?
+5. What is the last rule in the iptables file?
+6. What is PAM used for?
+7. What is NAT? How is it used?
+8.  iptables .I RH-Firewall-1-INPUT .p tcp .m tcp -.dport 22 .j ACCEPT. Is this valid rule under RHEL6?  True or False?
+

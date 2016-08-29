@@ -1,0 +1,20 @@
+
+
+Task 1: Installing Apache Webserver Packages
+Task 2: Configuring the  Web Server
+Task 3 : Firewall and SELinux Configuration for apache webserver
+
+
+
+Test your Skills about User Administration
+ 
+1. What command (and options) can be used to create a user named JSmith with the description .Jr Admin.?
+2. What is the format of the /etc/shadow file?
+3. What command would you use to create a group? How about to add the user JSmith to the group?
+4. How do you run a command with elevated privileges?
+5. Is it possible to share files among groups? What permissions would you set on the directory to accomplish file sharing if possible?
+6. If you want a specific action to take place when user01 logs in to the system, which file would you edit?
+7. You can add files to a user.s home directory during creation. True or False?
+8. By default, what is the path to a user.s home directory?
+9. What is the benefit to using centralized authentication?
+10. What commands can you use to add a client machine to an LDAP server?

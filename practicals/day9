@@ -1,0 +1,16 @@
+Task 1: Installation of NFS Services
+Task 2:  Configuring NFS Services
+Task 3: Manually export of Shares
+Task 4: Firewall  Configuration for NFS server
+Task 5: SELinux Configuration for NFS Server:
+
+
+Test Your Skills about System Logging, Monitoring and Automation:
+1. What option can you change in the rsyslog config file to accept remote logs (acting as a centralized logging server)?
+2. What two commands are special for dealing with user login events?
+3. Can you name the two commands that can be used to view the free space on the system?
+4. What command can you use to view system processes and their CPU usage?
+5. The at command is used to schedule reoccurring system jobs. True or False?
+6. What happens to jobs that are scheduled to run while the system is off?
+7. What command can be used to view the queue for at service jobs?
+8. What is the top command used for?
