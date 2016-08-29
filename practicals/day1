@@ -1,0 +1,32 @@
+
+1.  List the contents of the current directory:
+2. Show the current location:
+3. Move down one level into the Documents directory:
+4. Now view the current location again:
+5. View all hidden directories with the ls .a command:
+6.To get back to the previous user01 directory, use the following:
+7. Verify with the pwd command:
+8. Check the file type of test1:
+9. Check the type of the password file on the system:
+10. View the beginning of the messages log file:
+11. View the end of the messages log file:
+12. Copy the log file into the user01 home directory:
+13. Rename the file by specifying the filename and the new name of the file:
+14. With the file renamed, move it to the test directory for safekeeping:
+15  Deleteing a file i.e. messages.bak
+16. Delete a directory and it.s subcontinents recursively
+17. View file permissions for user01.s home directory:
+18.  Change the owner of file1 from user01 to user02:
+19. Change the group of file2 from user01 to user02:
+20. Now check the permissions again:
+21.  Change the permissions in the .other. section to allow write access to this file:
+
+
+
+Refresh Your Skills with some Installation Related Questions:
+1. Red Hat Enterprise Linux 5 supports LUKS encryption. True or False?
+2. In Red Hat Enterprise Linux 6, SELinux is set to Enforcing by default during the installation. True or False?
+3. Which remote management service is installed by default? Can you name the port that it uses?
+4. You can install software packages only after Red Hat Enterprise Linux is installed. True or False?
+5. The default partition layout includes only basic partitions. True or False?
+6. Which file contains all messages generated during installation that can be used for troubleshooting if the need arises?

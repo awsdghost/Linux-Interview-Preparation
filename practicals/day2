@@ -1,0 +1,26 @@
+
+1.  Use the echo command to output some text to a file:
+2. Verify that the text was output correctly by viewing the contents of the file:
+3. Display the third field of the text using the space as a delimiter:
+4. Combine the two commands into a single line:
+5. Execute one command and then another:
+6. Output some more text to this file:
+7. Verify the contents of the file again:
+8. Append text to the file instead of overwriting it:
+9. Verify the contents of the file:
+10. Run the same exact command again and view the contents of the file:
+
+
+Test your Skills related to System Initialization:
+ 
+1. GRUB has three stages. Can you name them? Ans:
+2. What option at the GRUB boot menu can you use to append something to a kernel?
+3. The old SysInit scripts have been replaced in Red Hat Enterprise Linux 6 for what new boot utility?
+4. Runlevel 0 reboots the system. True or False?
+5. If your system crashes and becomes unbootable, you have to reinstall the whole operating system. True or False?
+6. What command can you use to manage system services?
+7. What command disables the SSH service from running when the system boots?
+8. How can you list all services on the system to tell whether they will boot during startup?
+9. What does S12rsyslog in the /etc/rc.d/rc2.d directory mean?
+10. How can you verify the status of the SSH service after the system has booted? 
+11. What command and option can you use to enable a service to start on boot? 

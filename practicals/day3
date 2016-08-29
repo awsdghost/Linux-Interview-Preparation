@@ -1,0 +1,23 @@
+
+
+Understanding Linux Boot Process
+Understanding GRUB ( Version 1 )  and Working with it
+1. How Grub Works
+2.GRUB Configuration File :
+3. GRUB Command line
+Shutting Down a Linux System for routine maintenance Tasks
+
+
+Test your skills about Disks and Partitioning 
+
+ 
+1. What option is used with both the fdisk and parted commands to display the current partition tables?
+2. What does the partprobe command do?
+3. Do you need to write changes to the disk when using the parted command? What about fdisk?
+4. What are the three different types of RAID described in this chapter?
+5. What command can you use to query information from the kernel about RAID arrays?
+6. Can you put your /boot partition on a RAID 5 array?
+7. What are the three items that make up LVM?
+8. What are the side effects of shrinking a volume group or logical volume?
+9. What is the biggest benefit to using LVM over basic partitions?
+10. What command can you use to get information about logical volumes?
